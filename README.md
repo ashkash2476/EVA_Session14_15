@@ -8,6 +8,7 @@ Since we do not have access to a depth camera, we use a pre-trained depth model 
 Background:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/BG_list.png)
 
 Foreground:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/fg_list.png)
+
 Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/mask.png)
 
 
