@@ -37,12 +37,12 @@ Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Fi
 Foreground Background Overlayed:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/FG_BG_overlayed.png
 )
 
-### Foreground Background Overlayed
+
+### Foreground Background Masks
 - For every foreground overlayed on background, its corresponding mask was created.
 - The mask was created by pasting the foreground mask on a black image at the same position the foreground was overlayed.
 - Image was stored as a grayscale image.
-- Number of images: 400,000
-
+Number of images: 400,000
 Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/fg_bg_masks.png
 )
 
