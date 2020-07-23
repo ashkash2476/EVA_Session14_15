@@ -14,6 +14,9 @@ Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Fi
 Foreground Background Overlayed:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/FG_BG_overlayed.png
 )
 
+Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/fg_bg_masks.png
+)
+
 
 
 
