@@ -45,7 +45,13 @@ Number of images: 400,000
 Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/fg_bg_masks.png
 )
 
-
+### Step 6: Foreground Background Depth Maps
+- For every foreground overlayed on background, its corresponding depth mask was created.
+- A pre-trained monocular depth estimation model DenseDepth was used to generate the depth maps.
+- Image was stored as a grayscale image.
+Number of images: 400,000
+Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/fg_bg_masks.png
+)
 
 
 
