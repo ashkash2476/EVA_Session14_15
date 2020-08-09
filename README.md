@@ -57,5 +57,8 @@ Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Sessi
 Final Images:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/all_collated.png)
 
 
-#### Dataset Link 
+### Dataset structure and Link 
+#### Folder Structure 
+![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/folderstructure.png)
+Link
 https://drive.google.com/drive/folders/1cC5Rd1Nr34BjsefEjsNgBXDPXadaUB2D?usp=sharing
