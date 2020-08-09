@@ -50,10 +50,12 @@ Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Sessi
 - A pre-trained monocular depth estimation model DenseDepth was used to generate the depth maps.
 - Image was stored as a grayscale image.
 Number of images: 400,000
-Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/fg_bg_masks.png
+Foreground Background Masks:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/depth_maps.png
 )
 
+### Collated Results
+Final Images:![alt text](https://github.com/ashkash2476/EVA_Session14_15/blob/master/Final_images/all_collated.png)
 
 
-
-#### Dataset Link https://drive.google.com/drive/folders/1cC5Rd1Nr34BjsefEjsNgBXDPXadaUB2D?usp=sharing
+#### Dataset Link 
+https://drive.google.com/drive/folders/1cC5Rd1Nr34BjsefEjsNgBXDPXadaUB2D?usp=sharing
